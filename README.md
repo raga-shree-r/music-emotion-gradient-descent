@@ -19,3 +19,9 @@ This project aims to predict the emotional response to music based on features s
 - NumPy
 - Pandas
 - Matplotlib
+
+## Improvements
+- Added additional features - Gender, Nationality
+- Applied one-hot encoding
+- Improved prediction performance
+- Added detailed analysis and visualization
